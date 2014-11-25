@@ -8,7 +8,7 @@
     <ProjectGuid>{C45270D0-CDE3-4DA8-9A35-9036C737F1B2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SoftwareKobo.WebUtility</RootNamespace>
+    <RootNamespace>SoftwareKobo</RootNamespace>
     <AssemblyName>SoftwareKobo.WebUtility</AssemblyName>
     <DefaultLanguage>zh-CN</DefaultLanguage>
     <FileAlignment>512</FileAlignment>

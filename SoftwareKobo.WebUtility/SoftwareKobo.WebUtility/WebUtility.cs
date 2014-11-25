@@ -2,7 +2,7 @@
 using System.Globalization;
 using System.IO;
 
-namespace SoftwareKobo.WebUtility
+namespace SoftwareKobo
 {
     public static class WebUtility
     {
