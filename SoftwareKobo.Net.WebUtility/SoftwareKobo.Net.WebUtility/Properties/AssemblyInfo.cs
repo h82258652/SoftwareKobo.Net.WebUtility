@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的常规信息通过以下特性集
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("SoftwareKobo.WebUtility")]
+[assembly: AssemblyTitle("SoftwareKobo.Net.WebUtility")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SoftwareKobo.WebUtility")]
+[assembly: AssemblyProduct("SoftwareKobo.Net.WebUtility")]
 [assembly: AssemblyCopyright("版权所有(C)  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

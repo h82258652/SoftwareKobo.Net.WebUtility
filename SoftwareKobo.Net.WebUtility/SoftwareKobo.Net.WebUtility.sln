@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftwareKobo.WebUtility", "SoftwareKobo.WebUtility\SoftwareKobo.WebUtility.csproj", "{C45270D0-CDE3-4DA8-9A35-9036C737F1B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftwareKobo.Net.WebUtility", "SoftwareKobo.Net.WebUtility\SoftwareKobo.Net.WebUtility.csproj", "{C45270D0-CDE3-4DA8-9A35-9036C737F1B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
