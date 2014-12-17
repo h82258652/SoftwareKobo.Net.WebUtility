@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Globalization;
 using System.IO;
+using System.Text;
 
 namespace SoftwareKobo.Net
 {
@@ -210,6 +211,27 @@ namespace SoftwareKobo.Net
             var output = new StringWriter(CultureInfo.InvariantCulture);
             HtmlEncode(value, output);
             return output.ToString();
+        }
+
+        public static string UrlEncode(string value)
+        {
+            if (value == null)
+            {
+                return null;
+            }
+
+            return Uri.EscapeDataString(value);
+        }
+
+        public static string UrlDecode(string value)
+        {
+            if (value == null)
+            {
+                return null;
+            }
+
+            value = value.Replace('+', ' ');
+            return Uri.UnescapeDataString(value);
         }
     }
 }
